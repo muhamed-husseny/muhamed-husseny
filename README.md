@@ -20,18 +20,6 @@
 
 <br><br>
 
-<!-- Highlighted Projects -->
-<div align="center">
-  <h3>🚀 My Projects</h3>
-  <a href="https://github.com/muhamed-husseny/TalabatApi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamed-husseny&repo=TalabatApi&theme=radical&hide_border=true" alt="TalabatApi Project" />
-  </a>
-  <a href="https://github.com/muhamed-husseny/CarAutomotive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamed-husseny&repo=CarAutomotive&theme=radical&hide_border=true" alt="CarAutomotive Project" />
-  </a>
-</div>
-
-<br><br>
 
 <!-- Social Links / Badges -->
 <div align="center">
@@ -40,5 +28,8 @@
   </a>
   <a href="https://linkedin.com/in/muhamed-husseny">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/hussenyx">
+    <img src="https://img.shields.io/badge/Discord--hussenyx-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
