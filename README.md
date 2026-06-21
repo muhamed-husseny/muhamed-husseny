@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 ! my name is Mohamed Husseny</h1>
-<h3 align="center">I'm a Software Engineer</h3>
+<h3 align="center">I'm a Backend Engineer, I love building systems that actually scale, solving tough backend problems, and learning how things work under the hood.</h3>
 <hr>
 
 <!-- GitHub Top Languages Card -->
